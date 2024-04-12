@@ -1,5 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":461.4545454545455,"scrollY":330},
-{"id":2,"expanded":false,"name":"Mockup","order":2,"parentId":1,"scrollX":1128,"scrollY":806.6666666666666}
+{"id":1,"expanded":true,"name":"Game Maps","order":2,"parentId":0,"scrollX":1269,"scrollY":907.5},
+{"id":2,"expanded":true,"name":"Mockup","order":1,"parentId":0,"scrollX":1269,"scrollY":907.5},
+{"id":3,"expanded":false,"name":"Town","order":3,"parentId":1,"scrollX":1245,"scrollY":955.5},
+null,
+{"id":5,"expanded":false,"name":"Town Old","order":4,"parentId":1,"scrollX":1245,"scrollY":937.5}
 ]
