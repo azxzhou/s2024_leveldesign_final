@@ -1,0 +1,35 @@
+<block:-1,-3,10,10,offbot,center,Tower1>
+CREDITS
+
+Made for Spring 2024 Level Design 
+Studio at the NYU Game Center.
+
+\c[2]Engine
+RPG Maker MV
+
+\c[2]Character Sprites
+Extended Character Generator: Schlangan
+Additional Assets: Derex
+
+\c[2]Tilesets and Icons
+Green Forest: Caio (Clockwork Raven)
+Green Forest 2: Caio (Clockwork Raven)
+Green Village: Caio (Clockwork Raven)
+Farmlands: Caio (Clockwork Raven)
+Interiors: Caio (Clockwork Raven)
+Sun City: Caio (Clockwork Raven)
+Fantasy Adventures RPG Icon Pack: Kazzter
+
+\c[2] Artwork
+RPG Maker MV
+
+\c[2] Plugins
+Simple Canvas Filter: Jinseok Eo (biud436)
+MV Roll Credits: Galv
+
+\c[2]Special Thanks
+Blake Andrews 
+Sparrow the cat
+
+The End
+</block>
