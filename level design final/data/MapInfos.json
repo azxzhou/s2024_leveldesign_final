@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Game Maps","order":1,"parentId":0,"scrollX":725.1428571428571,"scrollY":518.5714285714286},
 {"id":2,"expanded":true,"name":"Mockup","order":15,"parentId":0,"scrollX":905.4545454545455,"scrollY":725.4545454545455},
-{"id":3,"expanded":true,"name":"Town","order":3,"parentId":7,"scrollX":979.6363636363636,"scrollY":642.5454545454546},
+{"id":3,"expanded":true,"name":"Town","order":3,"parentId":7,"scrollX":979.6363636363636,"scrollY":780},
 {"id":4,"expanded":false,"name":"Forest Path","order":7,"parentId":7,"scrollX":922.909090909091,"scrollY":660},
 {"id":5,"expanded":false,"name":"Town Old","order":5,"parentId":3,"scrollX":905.4545454545455,"scrollY":1277.4545454545455},
 {"id":6,"expanded":true,"name":"Forest Cliffside","order":8,"parentId":7,"scrollX":922.909090909091,"scrollY":660},
