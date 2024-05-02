@@ -23,6 +23,9 @@ Fantasy Adventures RPG Icon Pack: Kazzter
 \c[2] Artwork
 RPG Maker MV
 
+\c[2] Logo Font
+The Impostor (Solstice Enigma)
+
 \c[2] Plugins
 Simple Canvas Filter: Jinseok Eo (biud436)
 MV Roll Credits: Galv
